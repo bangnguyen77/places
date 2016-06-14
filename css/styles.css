@@ -1,0 +1,12 @@
+#show-place {
+  display: none;
+}
+
+#places {
+  cursor: pointer;
+}
+
+#places li:hover{
+  color: #0088cc;
+  text-decoration: underline;
+}
